@@ -1,5 +1,5 @@
 ---
-name: accessibilty-checklist
+name: accessibility-checklist
 description: Run the full checlist across code quality, and accessibility. Report each item as PASS, FAIL, or MANUAL (requires browser/external tool).
 user_invocable: true
 ---
